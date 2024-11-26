@@ -36,7 +36,7 @@ __How to Play__
   - javac *.java
   - java main
 
-__Follow the on-screen instructions:__
+__Follow the on-screen instructions__
 - Select difficulty level.
 - Enter starting coordinates.
 - Choose cells to reveal or flag until you win or hit a mine!
@@ -46,7 +46,7 @@ __Skills Demonstrated__
 - Data Structures: Leveraged stacks and queues for cascading reveals and initial area generation.
 - Debugging and Testing: Implemented a debug mode for enhanced visibility during development.
 
-__Authors:__
+__Authors__
 
 Tenzin Chonyi [LinkedIn](https://www.linkedin.com/in/tenzin-chonyi-871863252)
 
