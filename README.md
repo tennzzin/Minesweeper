@@ -1,17 +1,17 @@
 __Minesweeper Game__
 
-Overview
+__Overview__
 
 This project is a console-based Minesweeper game implemented in Java. It challenges players to uncover all non-mine cells on a dynamic grid while strategically flagging mines. The game features multiple difficulty levels, a debug mode for testing, and a robust implementation of core game mechanics.
 
-Features
+__Features__
 - Dynamic Difficulty Levels: Choose from easy (5x5), medium (9x9), and hard (20x20) grids.
 - Flagging Mechanism: Safely mark suspected mines with flags.
 - Debug Mode: Visualize the entire board during gameplay for testing.
 - User-Friendly Controls: Intuitive prompts for navigation and inputs.
 - Victory/Loss Detection: Detects win or loss conditions based on game progress. 
 
-Technology Stack
+__Technology Stack__
 - Language: Java
 - Core Concepts:
   - Object-Oriented Programming (OOP)
@@ -19,7 +19,7 @@ Technology Stack
   - ANSI Color Formatting for visual clarity
   - Randomized Mine Placement
 
-Classes
+__Classes__
 - Cell: Represents individual cells on the game board with attributes like status and visibility.
 - Minefield: Core logic for:
   - Dynamic mine placement and board evaluation.
@@ -28,7 +28,7 @@ Classes
 - Stack1Gen & Q1Gen: Generic implementations of stack and queue data structures.
 - main: Entry point that handles user input, game initialization, and the main game loop.
 
-How to Play
+__How to Play__
 - Clone the repository:
   - git clone https://github.com/yourusername/minesweeper-game.git
 - cd minesweeper-game
@@ -36,17 +36,17 @@ How to Play
   - javac *.java
   - java main
 
-Follow the on-screen instructions:
+__Follow the on-screen instructions:__
 - Select difficulty level.
 - Enter starting coordinates.
 - Choose cells to reveal or flag until you win or hit a mine!
 
-Skills Demonstrated
+__Skills Demonstrated__
 - Algorithm Development: Efficient traversal and evaluation of a 2D grid.
 - Data Structures: Leveraged stacks and queues for cascading reveals and initial area generation.
 - Debugging and Testing: Implemented a debug mode for enhanced visibility during development.
 
-Authors:
+__Authors:__
 
 Tenzin Chonyi [LinkedIn](https://www.linkedin.com/in/tenzin-chonyi-871863252)
 
