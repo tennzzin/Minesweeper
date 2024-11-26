@@ -1,4 +1,4 @@
-Minesweeper Game
+__Minesweeper Game__
 
 Overview
 This project is a console-based Minesweeper game implemented in Java. It challenges players to uncover all non-mine cells on a dynamic grid while strategically flagging mines. The game features multiple difficulty levels, a debug mode for testing, and a robust implementation of core game mechanics.
