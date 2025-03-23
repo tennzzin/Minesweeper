@@ -43,11 +43,13 @@ This project is a console-based Minesweeper game implemented in Java. It challen
 ## Skills Demonstrated
 - **Algorithm Development**  
   Efficient traversal and evaluation of a 2D grid.
+  
 - **Data Structures**  
   Leveraged stacks and queues for cascading reveals and initial area generation.
+  
 - **Debugging and Testing**  
   Implemented a debug mode for enhanced visibility during development.
 
 ## Authors
 - **Tenzin Chonyi** - [LinkedIn](https://www.linkedin.com/in/tenzin-chonyi)
-- **Tenzin Gendun**
+- **Tenzin Gendun** - [LinkedIn](https://www.linkedin.com/in/tenzingendun/)
