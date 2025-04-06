@@ -30,8 +30,8 @@ This project is a console-based Minesweeper game implemented in Java. It challen
 
 ## How to Play
 1. Clone the repository:
-   - `git clone https://github.com/tennzzin/minesweeper-game.git`
-   - `cd minesweeper-game`
+   - `git clone https://github.com/tennzzin/minesweeper.git`
+   - `cd minesweeper`
 2. Compile and run the game:
    - `javac *.java`
    - `java main`
